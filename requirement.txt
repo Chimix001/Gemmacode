@@ -1,0 +1,20 @@
+```text
+# Core inference
+llama-cpp-python>=0.3.16
+
+# Hugging Face
+huggingface_hub>=0.34.0
+hf_xet>=1.1.0
+
+# Numerical computing
+numpy>=1.26.0
+
+# Progress bars
+tqdm>=4.67.0
+
+# Environment variables
+python-dotenv>=1.1.0
+
+# HTTP requests
+requests>=2.32.0
+```
