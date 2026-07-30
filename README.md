@@ -110,8 +110,8 @@ This architecture enables GemmaCode to deliver reliable AI coding assistance tod
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/NaijaDev-AI.git
-cd NaijaDev-AI
+git clone https://github.com/<your-username>/GemmaCode.git
+cd -GemmaCode
 ```
 
 ---
