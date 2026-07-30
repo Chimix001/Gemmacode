@@ -1,4 +1,4 @@
- GemmaCode
+## GemmaCode
 
 An AI-powered coding assistant built with Google Gemma 4 to help students, developers, and startups generate, debug, explain, and optimize code.
 
