@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/FavourDarasimi/Gemma-Code-Frontend.git
+[submodule "server"]
+	path = server
+	url = https://github.com/FavourDarasimi/Gemma-Code-Backend.git
